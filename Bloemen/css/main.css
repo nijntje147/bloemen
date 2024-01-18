@@ -1,0 +1,121 @@
+header
+{
+    width: 1000px;
+    height: 100px;
+    background-color: #FFA07A;
+    color: blanchedalmond;
+}
+
+footer
+{
+    width: 1000px;
+    height: 75px;
+    background-color: #F08080;
+    color: bisque;
+}
+
+#een
+{   width: 100px;
+    background-color: #FF5032;
+    color: white;
+}
+
+#twee
+{
+    width: 200px;
+    height: 200px;
+    background-color: #FF6793;
+    color: white;
+}
+
+#drie
+{   width: 100px;
+    background-color: #F029b8;
+    color: white;
+}
+
+#vier
+{    width: 200px;
+    height: 200px;
+    background-color: #ff384a;
+    color: white;
+}
+
+#vijf
+{   width: 100px;
+    background-color: #9a09aa;
+    color: white;
+}
+
+#zes
+{   width: 200px;
+    height: 200px;
+    background-color: #3608ab;
+    color: white;
+}
+
+#zeven
+{   width: 100px;
+    background-color: #59c230;
+    color: white;
+}
+
+#acht
+{    width: 200px;
+    height: 200px;
+    background-color: #84a790;
+    color: white;
+}
+
+#negen
+{   width: 100px;
+    background-color: #c0968f;
+    color: white;
+}
+
+#tien
+{
+    width: 200px;
+    height: 200px;
+    background-color: #611d30;
+    color: white;
+}
+
+#elf
+{   width: 100px;
+    background-color: #480835;
+    color: white;
+}
+
+#twaalf
+{    width: 200px;
+    height: 200px;
+    background-color: #0ed7ee;
+    color: white;
+}
+
+#dertien
+{   width: 100px;
+    background-color: #0865c1;
+    color: white;
+}
+
+#veertien
+{    width: 200px;
+    height: 200px;
+    background-color: #984158;
+    color: white;
+}
+
+#vijftien
+{   width: 100px;
+    background-color: #30c2a2;
+    color: white;
+}
+
+#zestien
+{   width: 200px;
+    height: 200px;
+    background-color: #0909aa;
+    color: white;
+}
